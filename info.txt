@@ -1,0 +1,6 @@
+Info page
+
+GitHub-link: https://github.com/Neohack00/Kodbagarna_Hugo
+GitHub-owner: Neo
+
+Heroku-owner: 'none'
